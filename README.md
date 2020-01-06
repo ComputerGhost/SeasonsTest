@@ -14,9 +14,7 @@ I made the scripts and put it all together.
 
 ## Copyright and License
 
-It's copyrighted.  I reserve all rights.
+It's copyrighted and there is no license specified.  That means it all goes to the default rule of "look but don't touch!"
 
-You'll notice there is no license.  Yep!  You can only read this stuff!  Mwuhahahaha!  You'll need my express permission to use any of my code.
-
-Do note that the lack of a license only applies to my stuff.  I gave credits above for the stuff that I don't own.
+Honestly though, I don't really care.  I just haven't decided on the licensing yet.  This was meant to be a private repo to share with certain people, but GitHub limits me to 3 collaborators unless I pay.  I'm perfectly okay with making it public and without a license instead.  ;)
 
